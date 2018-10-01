@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "md";
-	src: url("fonts/md.ttf");
+	src: url("fonts/mb.ttf");
 }
 @font-face {
 	font-family: "m";
@@ -56,7 +56,7 @@
 }
 .heading {
 	font-family: md;
-	font-size: 84px;
+	font-size: 82px;
 	text-align: center;
 	width: 60%;
 	position: relative;
@@ -64,7 +64,7 @@
 	-webkit-transform: translateX(-50%);
 	color: #252525;
 	letter-spacing: -4px;
-	margin-top: 23px;
+	margin-top: 27px;
 
 }
 img {
@@ -95,18 +95,18 @@ background: linear-gradient(to left, #e96443 , #904e95); /* W3C, IE 10+/ Edge, F
         
 	left: 50%;
 	-webkit-transform: translateX(-50%);
-	margin-top: 30px;
+	margin-top: 25px;
 }
 .text {
 	position: relative;
 	left: 50%;
-	width: 28%;
+	width: 30%;
 	text-align: center;
 	-webkit-transform: translateX(-50%);
 	font-family: m;
 	font-weight: 300;
 	line-height: 30px;
-	margin-top: 30px;
+	margin-top: 25px;
 	color: #868686;
 	font-size: 13px;
 }

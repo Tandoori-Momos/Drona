@@ -36,6 +36,7 @@
 			);
 
 		$f->insert('users2',$reg);
+		header('index.html');
 
 		echo "success";
 	}
