@@ -53,7 +53,7 @@
 	</script>
 	<body>
 		<div class = "header">
-			<div class="logo"><span style = "font-weight: 400;">EXUN</span>CLAN<span class="mau">[DASHBOARD]</span></div>
+			<div class="logo"><span style = "font-weight: 400;">NEXT</span>EV<span class="mau">[DASHBOARD]</span></div>
 			<div class="nav">
 				<div class = "nav-opt"><a href="index.html">Home</a></div>
 				<div class = "nav-opt"><a href = "login.html">Search</a></div>
